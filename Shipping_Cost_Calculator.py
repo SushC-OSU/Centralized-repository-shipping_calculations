@@ -1,3 +1,4 @@
+ # Here is a new update by SushC-OSU
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
